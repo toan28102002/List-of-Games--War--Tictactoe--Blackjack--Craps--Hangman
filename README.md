@@ -26,13 +26,13 @@ Beginner-friendly code structure for learning and modification.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git.
 cd your-repo-name
 
 
 # Run the game you want to play:
 
 Example for Python ->
-python war.py
-python tictactoe.py
-python blackjack.py
+python war.py.
+python tictactoe.py.
+python blackjack.py.
