@@ -26,8 +26,8 @@ Beginner-friendly code structure for learning and modification.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git.
-cd your-repo-name
+git clone https://github.com/your-username/your-repo-name.git  
+cd your-repo-name  
 
 
 # Run the game you want to play:
