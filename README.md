@@ -1,9 +1,9 @@
-#🎮 List of Games – War • Tic-Tac-Toe • Blackjack • Craps • Hangman
+# 🎮 List of Games – War • Tic-Tac-Toe • Blackjack • Craps • Hangman
 
 This repository contains simple implementations of five classic games written in C++.
 The goal of this project is to practice fundamental programming concepts such as logic design, condition handling, loops, and modular programming with .cpp and .h files.
 
-#📂 Games Included
+# 📂 Games Included
 
 🃏 War – A card game where two players draw cards and the higher card wins.
 
@@ -15,7 +15,7 @@ The goal of this project is to practice fundamental programming concepts such as
 
 🔤 Hangman – A word-guessing game where players try to discover the hidden word before the stick figure is completed.
 
-#🚀 Features
+# 🚀 Features
 
 Playable directly from the console/terminal.
 
