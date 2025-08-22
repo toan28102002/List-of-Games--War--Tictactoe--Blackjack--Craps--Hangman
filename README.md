@@ -33,6 +33,6 @@ cd your-repo-name
 # Run the game you want to play:
 
 Example for Python ->
-python war.py.
-python tictactoe.py.
-python blackjack.py.
+python war.py.  
+python tictactoe.py.  
+python blackjack.py.  
