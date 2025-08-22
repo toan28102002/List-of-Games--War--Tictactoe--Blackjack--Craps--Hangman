@@ -36,10 +36,10 @@ Clone the repository
 # Run the game you want to play:
 
 Compile and run the main menu (to choose any game):
->```g++ main.cpp Blackjack.cpp Craps.cpp Hangman.cpp TicTacToe.cpp War.cpp -o games```
+>```g++ main.cpp Blackjack.cpp Craps.cpp Hangman.cpp TicTacToe.cpp War.cpp -o games```  
 >```./games``` 
 
 Or compile and run an individual game:
->```g++ main.cpp Blackjack.cpp -o blackjack```
+>```g++ main.cpp Blackjack.cpp -o blackjack```  
 >```./blackjack```
 
