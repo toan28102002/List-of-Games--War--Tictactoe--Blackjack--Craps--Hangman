@@ -57,14 +57,16 @@ Compile and run the main menu (to choose any game):
 Or compile and run an individual game:
 >```g++ main.cpp Blackjack.cpp -o blackjack```  
 >```./blackjack```
-```
+
 
 ## 🎥 Demo Video
 
 
 
 
-https://github.com/user-attachments/assets/c53d8674-a584-4055-b6c0-e51cc217d5fc
+https://github.com/user-attachments/assets/0a9f8077-dec6-4098-8fb6-a70b8df258b2
+
+
 
 
 
