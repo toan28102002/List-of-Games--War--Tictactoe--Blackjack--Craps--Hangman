@@ -27,11 +27,25 @@ Beginner-friendly code for learning and modification.
 
 # ▶️ How to Run
 
-Clone the repository
+### 🌐 Option 1: Run Online (Recommended)
 
->```git clone https://github.com/your-username/your-repo-name.git```  
->```cd your-repo-name```  
+This project is fully playable on Replit:
 
+👉 https://replit.com/@your-username/your-repl-link
+
+No installation needed — just open the link and click **Run**.
+
+---
+
+### 💻 Option 2: Run Locally (Optional)
+
+If you want to run it on your own machine, make sure you have a C++ compiler (like g++) installed.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name  
 
 # Run the game you want to play:
 
@@ -43,3 +57,6 @@ Or compile and run an individual game:
 >```g++ main.cpp Blackjack.cpp -o blackjack```  
 >```./blackjack```
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/QgVhlj5CWGM/0.jpg)](https://www.youtube.com/watch?v=QgVhlj5CWGM)
