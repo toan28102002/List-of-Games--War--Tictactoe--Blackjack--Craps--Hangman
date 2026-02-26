@@ -47,6 +47,10 @@ Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name  
 
+
+https://github.com/user-attachments/assets/528587e4-ae1a-4505-ad47-aa2fc921cd05
+
+
 # Run the game you want to play:
 
 Compile and run the main menu (to choose any game):
@@ -59,4 +63,7 @@ Or compile and run an individual game:
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/QgVhlj5CWGM/0.jpg)](https://www.youtube.com/watch?v=QgVhlj5CWGM)
+
+Uploading Game.mp4…
+
+
