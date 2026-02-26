@@ -47,10 +47,7 @@ Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name  
 
-
-https://github.com/user-attachments/assets/528587e4-ae1a-4505-ad47-aa2fc921cd05
-
-
+```
 # Run the game you want to play:
 
 Compile and run the main menu (to choose any game):
@@ -60,6 +57,7 @@ Compile and run the main menu (to choose any game):
 Or compile and run an individual game:
 >```g++ main.cpp Blackjack.cpp -o blackjack```  
 >```./blackjack```
+```
 
 ## 🎥 Demo Video
 
